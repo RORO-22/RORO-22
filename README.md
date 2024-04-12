@@ -27,3 +27,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" title="FileZila" alt="FileZila" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: Statistiques :
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RORO-22" title="Statistiques" alt="Statistiques"/>&nbsp;
