@@ -30,7 +30,7 @@
 
 ---
 
-### :fire: Statistiques :
+### :bar_chart: Statistiques
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RORO-22&theme=github-dark-blue&locale=fr)](https://git.io/streak-stats)
 
